@@ -44,3 +44,13 @@ If publishing reports a license error for the app's objects, or for anything els
   [documentation](https://www.niccoweb.com/p/nw-core-documentation.html)
 
 Business Central online cannot install these packages: for it, contact Niccoweb.
+
+## TradeFlow Ventas (Android)
+
+Mobile app of TradeFlow for sales, dispatch and delivery staff.
+
+- Latest version: [TradeFlow-Ventas.apk](https://github.com/mickysoft/niccoweb-downloads/releases/download/tradeflow-ventas-latest/TradeFlow-Ventas.apk)
+- Earlier versions: [Releases](https://github.com/mickysoft/niccoweb-downloads/releases) (`tradeflow-ventas-<version>`).
+
+Open the link on the phone, allow installing from the browser when Android asks, and install. To
+update, install the new file over the old one (it keeps the data and the session).
